@@ -8,5 +8,11 @@
 </head>
 <body>
     <div>hola mundo</div>
+
+    <?php
+
+         echo"Aprendiendo";
+    
+    ?>
 </body>
 </html>
