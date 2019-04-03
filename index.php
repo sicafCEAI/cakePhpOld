@@ -10,8 +10,6 @@
 
 <body>
 
-
-
     <div>hola mundo</div>
 
     <div>
@@ -22,7 +20,7 @@
 
     <?php
 
-         echo"Aprendiendo";
+         
     
     ?>
 </body>
